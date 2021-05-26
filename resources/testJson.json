@@ -1,0 +1,25 @@
+{
+  "keywordList": {
+    "query": [
+ 
+      [
+        "Name",
+        "SomeOne"
+      ],
+      [
+        "Name 2",
+        "SomeOne else"
+      ]
+    ],
+    "description": [
+      [
+        "Descriton 2",
+        " else"
+      ],
+      [
+        "Descriton 2",
+        " else"
+      ]
+    ]
+  }
+}
